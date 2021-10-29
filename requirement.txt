@@ -1,2 +1,0 @@
-yarn add --dev prettier
-yarn add --dev eslint
