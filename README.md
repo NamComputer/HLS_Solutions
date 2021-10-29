@@ -1,7 +1,7 @@
 # HLS_Solutions
 This is my solution for HLS interview questions!
 
-[Algorithm](Solution_Algorithm/)
+[Algorithm](Solution_Alogorithm/)
 
 [Mobile](Solution_Mobile/)
 
